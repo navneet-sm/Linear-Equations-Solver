@@ -3,6 +3,6 @@ Linear Equation Solver
 This is a project in Jetbrains Academy Python Developer Curriculum.
 
 It takes input file of equations through the command line and saves output in another text file.
-It uses Gauss elimination method and can solve both real and imagininary numbers.
+It uses Gauss elimination method and can solve both real and complex numbers.
 
 More details in the link: https://hyperskill.org/projects/144?track=2
